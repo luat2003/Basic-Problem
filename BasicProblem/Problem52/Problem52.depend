@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628753664 source:e:\codeforces\basicproblem\problem52\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+	<string>
+

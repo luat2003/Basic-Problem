@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1628329761 source:e:\codeforces\problem3\main.cpp
+	<iostream>
+	<math.h>
+
+1628571915 source:e:\codeforces\basicproblem\problem3\main.cpp
+	<iostream>
+	<math.h>
+
